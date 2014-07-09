@@ -1,0 +1,42 @@
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Server_Computer.resources
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Properties.Resources.resources
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csproj.GenerateResource.Cache
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csprojResolveAssemblyReference.cache
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csprojResolveAssemblyReference.cache
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Server_Computer.resources
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Properties.Resources.resources
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csproj.GenerateResource.Cache
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\ParalelProgramlama\Proje\New folder (2)\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.exe
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.pdb
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csprojResolveAssemblyReference.cache
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Server_Computer.resources
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Properties.Resources.resources
+C:\Users\İdris TÜRKER\Desktop\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.exe
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.pdb
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.exe
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.pdb
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Server_Computer.resources
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\END\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.exe
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.pdb
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.exe
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\bin\Debug\Server_Computer.pdb
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Server_Computer.resources
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.csproj.GenerateResource.Cache
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.exe
+D:\Dersler\4. Sınıf 1. Dönem\Paralel Programlama\END_Working\Server\Server_Computer\Server_Computer\obj\x86\Debug\Server_Computer.pdb
